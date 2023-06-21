@@ -1,5 +1,5 @@
 import "package:flutter/material.dart";
-import 'package:mobilodevi/pages/main.dart';
+import 'package:mobilodevi/main.dart';
 import '../models/oyun.dart';
 import '../services/db_utils.dart';
 

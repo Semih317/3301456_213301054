@@ -6,10 +6,10 @@ import 'package:mobilodevi/pages/OyunSecmeSayfasi.dart';
 import 'package:mobilodevi/pages/parcasecme.dart';
 import 'package:mobilodevi/pages/wallpaper_sayfasi.dart';
 import 'package:mobilodevi/firebase_firestore/widget_tree.dart';
-import 'avatars.dart';
+import 'pages/avatars.dart';
 import 'package:firebase_core/firebase_core.dart';
-import 'favorites.dart';
-import '../firebase_firestore/firebase_options.dart';
+import 'pages/favorites.dart';
+import 'firebase_firestore/firebase_options.dart';
 
 Future<void> main() async {
   WidgetsFlutterBinding.ensureInitialized();
