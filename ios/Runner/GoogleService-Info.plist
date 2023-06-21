@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>784742312275-hrc918ds2idrnq1jbkake2ht1b00iiio.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.784742312275-hrc918ds2idrnq1jbkake2ht1b00iiio</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD3KwVLBusFiqNvMR7i0CTwhHEfsvLO1Qk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>784742312275</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.mobilodevi</string>
+	<key>PROJECT_ID</key>
+	<string>gamespecs-fa531</string>
+	<key>STORAGE_BUCKET</key>
+	<string>gamespecs-fa531.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:784742312275:ios:41cd2ef5513e4cc2ea99a6</string>
+</dict>
+</plist>

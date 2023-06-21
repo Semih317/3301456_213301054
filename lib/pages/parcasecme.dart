@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:mobilodevi/binseksenibes.dart';
-import 'package:mobilodevi/binseksenibesonuc.dart';
-import 'package:mobilodevi/ucbinelliibes.dart';
-import 'package:mobilodevi/ucbinelliibesdokuz.dart';
+import 'package:mobilodevi/pages/binseksenibes.dart';
+import 'package:mobilodevi/pages/binseksenibesonuc.dart';
+import 'package:mobilodevi/pages/ucbinelliibes.dart';
+import 'package:mobilodevi/pages/ucbinelliibesdokuz.dart';
 
 class parcasecme extends StatefulWidget {
   const parcasecme({Key? key}) : super(key: key);

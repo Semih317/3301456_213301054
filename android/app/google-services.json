@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "784742312275",
+    "project_id": "gamespecs-fa531",
+    "storage_bucket": "gamespecs-fa531.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784742312275:android:ef612215e80fb3d6ea99a6",
+        "android_client_info": {
+          "package_name": "com.example.mobilodevi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "784742312275-5d5iuh34g5hdrq4efj8b6vee27ee22k7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDb4Ztn1qT-So6oUsgeoD16cjbmYDNVpJQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "784742312275-5d5iuh34g5hdrq4efj8b6vee27ee22k7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "784742312275-hrc918ds2idrnq1jbkake2ht1b00iiio.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.mobilodevi"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
